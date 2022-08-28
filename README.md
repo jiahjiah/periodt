@@ -1,5 +1,8 @@
 # periodt
 
+[![Periodt YouTube Video](https://img.youtube.com/vi/t_yEy_pVmng/0.jpg)](https://www.youtube.com/watch?v=t_yEy_pVmng "Periodt.")
+
+
 ## Inspiration
 On June 24, 2022, Roe v Wade Roe was overruled. Everyone knew this was coming, not only was the decision leaked but the refusal of women and people with a uterus to choose has had waves across the globe. In a time when data is sold, we wanted to create an app that would protect the right to choose and have a way to store menstrual data somewhere where there is no risk of it being sold. We wanted to create a user-friendly tracking app with features and help for people who want to prevent pregnancies and access abortion. We also have the aim of highlighting access to abortion for everyone especially people in places where it is very far away giving women+ what they deserve is that simple, Periodt. 
 
